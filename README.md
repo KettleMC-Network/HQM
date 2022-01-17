@@ -1,4 +1,4 @@
-# HQM
+# HQM for 1.7
 Hardcore Questing Mode
 
-<This is not the readme.md you are looking for>
+https://howoldisminecraft1710.today
